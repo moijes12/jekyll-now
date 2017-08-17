@@ -1,3 +1,9 @@
+---
+layout: "post"
+title: "converting-proto-to-json-and-back-with-gson"
+date: "2017-07-17 20:56"
+---
+
 # Converting Protocol Buffers data to Json and back with Gson Type Adapters :D
 
 ## Introduction
