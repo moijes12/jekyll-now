@@ -22,7 +22,8 @@ In my case, my application was already reading data in JSON and deserializing it
 
 ## Let the Example Begin :)
 
-*Note this example uses Protobuf version 3.3.1 though the concepts are applicable for lower protobuf versions*
+*Note this example uses Protobuf version 3.3.1 though the concepts are applicable for lower protobuf versions.*
+*The source code for the example is available at [PersonProtoTutorial](https://github.com/moijes12/PersonProtoTutorial)*
 
 Take the proto file defined below:
 
