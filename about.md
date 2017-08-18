@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Alex. I am a QA by day and a life-long student :)
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy building things. Contributing to [openhatch](https://github.com/openhatch/oh-mainline) brought me to github. You can find me on github at [moijes12](https://github.com/moijes12).
 
 ### Contact me
 
