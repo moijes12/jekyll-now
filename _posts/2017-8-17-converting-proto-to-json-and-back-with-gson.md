@@ -172,7 +172,7 @@ Gson gson = gsonBuilder.registerTypeAdapter(Person.class, new PersonAdapter()).c
 ```    
 
 So the below code in our demo class
-```
+```java
 // Create a Person object
 Person.Builder personBuilder = Person.newBuilder();
 personBuilder.setName("John");
